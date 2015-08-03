@@ -1,4 +1,0 @@
-cd /Users/ruckusaricent/Ruckus/CI\ Setup\ Android/workspace/speedflex
-sudo git checkout --
-
-sudo chmod -R 777 /Users/ruckusaricent/Ruckus/CI\ Setup\ Android/workspace/speedflex
